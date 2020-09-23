@@ -3,6 +3,4 @@ A Tkinter python IDE which writes itself
 
 see `quine.py`
 
-required modules: `tkinter (built-in)`, `sys (built-in)`, `traceback (built-in)`
-
-tested in python3.7
+tested in python3.7, python3.8
